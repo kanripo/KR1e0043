@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 東萊呂太史春秋左傳類編
-#+DATE: 2015-09-23 09:39:39
+#+DATE: 2015-09-11 23:42:43.719563
+#+PROPERTY: ID KR1e0043
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 0
+#+PROPERTY: FILE SB05n0585-000東萊吕太史春秋左傳類編-目録.
 <pb:KR1e0043_SBCK_000-1a>¶
 東莱吕太史春秋左傳&KR0011;編目録¶
 　　　綱領¶
@@ -45,6 +49,8 @@
 <pb:KR1e0043_SBCK_000-29a>¶
 <pb:KR1e0043_SBCK_000-30a>¶
 <pb:KR1e0043_SBCK_000-31a>¶
+#+PROPERTY: JUAN 0
+#+PROPERTY: FILE SB05n0585-000東萊吕太史春秋左傳類編-綱領.
 <pb:KR1e0043_SBCK_000-32a>¶
 綱領¶
 論語衛公孫朝問於子貢曰仲尼焉學子貢曰文武之道未墜¶
@@ -1093,4 +1099,3 @@
 定元年城成周宋仲㡬不受功曰&KR0364;薛郳吾役也¶
 哀七年邾茅夷鴻告吳曰邾賦六百乘君之私也¶
 <pb:KR1e0043_SBCK_000-85a>¶
-
